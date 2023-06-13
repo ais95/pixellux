@@ -3,5 +3,10 @@ body {
   background-color: #330074;
   font-family: "Be Vietnam Pro", sans-serif;
 }
+body main header img {
+  width: 100%;
+  height: auto;
+  overflow: auto;
+}
 
 /*# sourceMappingURL=style.css.map */
